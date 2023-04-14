@@ -92,7 +92,7 @@ class SeatsView: View {
             backgroundPaint.color = ResourcesCompat.getColor(resources, R.color.grey_200, null)
             armrestPaint.color = ResourcesCompat.getColor(resources, R.color.grey_200, null)
             bottomSeatPaint.color = ResourcesCompat.getColor(resources, R.color.grey_200, null)
-            numberSeatPaint.color = ResourcesCompat.getColor(resources, R.color.black, null)
+            numberSeatPaint.color = ResourcesCompat.getColor(resources, R.color.blue_200, null)
         } else {
             backgroundPaint.color = ResourcesCompat.getColor(resources, R.color.blue_500, null)
             armrestPaint.color = ResourcesCompat.getColor(resources, R.color.blue_700, null)
